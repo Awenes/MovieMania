@@ -3,7 +3,7 @@ import './App.css'
 import {FaSearch} from 'react-icons/fa'
 import MovieCard from './components/MovieCard'
 
-const API_URL ='http://www.omdbapi.com?apikey=87056f8c'
+const API_URL ='https://www.omdbapi.com?apikey=87056f8c'
 
 const movie1 = {
     "Title": "Superman, Spiderman or Batman",
